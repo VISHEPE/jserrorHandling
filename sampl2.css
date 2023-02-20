@@ -1,0 +1,19 @@
+body{
+    background: black; 
+	border-image-repeat: no-repeat; 
+	background-repeat: no-repeat;
+}
+button{
+	border-radius: 5px;
+	margin-top: 10px;
+	background: pink;
+}
+h1{
+	color:white; 
+}
+p{
+	color: white;
+}
+#error{
+	color:red; 
+}
